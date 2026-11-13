@@ -3,13 +3,13 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Software Developer passionate about building modern, scalable, and efficient web applications.
-- 🚀 Focused on developing enterprise applications, workflow automation, and user-friendly software solutions.
-- 🏗️ Experienced in frontend and backend integration, API development, and database-driven systems.
+- 💻 Software Developer passionate about building modern, scalable, and user-friendly web applications.
+- 🚀 Focused on enterprise applications, workflow automation, and practical business solutions.
+- 🏗️ Experienced in frontend and backend integration, REST APIs, and database-driven systems.
 - 🛠️ Working with React, TypeScript, Tailwind CSS, .NET, and Microsoft technologies.
 - ☁️ Interested in Cloud Engineering, DevOps, and AI-powered software development.
-- 📚 Continuously exploring new technologies, system architecture, and software engineering best practices.
-- ⚡ Fun fact: I enjoy transforming complex business processes into practical digital solutions.
+- 📚 Continuously learning about system architecture and software engineering best practices.
+- 🌐 Check out my portfolio: **[enzodaniela.vercel.app](https://enzodaniela.vercel.app/)**
 
 ---
 
@@ -32,11 +32,12 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
 
-### 🗄️ Database & Microsoft Technologies
+### 🗄️ Databases & Integrations
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
 ### 🧰 Development Tools
 
@@ -47,8 +48,34 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🚚 FCT App V4 — Fuel Control Application
+
+An enterprise fuel management system covering fuel requests, issuance, liquidation, approvals, and audit history. Modernized with a responsive web interface and backend API integrations.
+
+**Tech:** React, TypeScript, Vite, Tailwind CSS, .NET, SQL Server, SharePoint
+
+### 📊 Workforce API → Google Sheets Integration
+
+An API-to-spreadsheet integration that helps organize workforce records for operational reporting and review.
+
+**Tech:** REST API, Google Apps Script, Google Sheets, Postman
+
+### 🌐 Personal Developer Portfolio
+
+A personal website highlighting my projects, technical skills, and software development work.
+
+**Website:** [enzodaniela.vercel.app](https://enzodaniela.vercel.app/)
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoDaniela01&show_icons=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoDaniela01&layout=compact&theme=transparent)
+
+---
+
+📌 **[Portfolio](https://enzodaniela.vercel.app/)** · **[GitHub](https://github.com/EnzoDaniela01)**
